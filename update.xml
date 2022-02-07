@@ -2,6 +2,6 @@
   <update>
     <latestVersion>3.0</latestVersion>
     <latestVersionCode>2</latestVersionCode>
-    <url>https://github.com/leducnh1290/update/blob/main/app-release.apk?raw=true</url>
+    <url>https://github.com/leducnh1290/update/raw/main/app-release.apk</url>
   </update>
 </AppUpdater>
