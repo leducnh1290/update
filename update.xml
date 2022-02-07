@@ -1,0 +1,12 @@
+<AppUpdater>
+  <update>
+    <latestVersion>1.1</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
+    <url>https://cachualove.tk/file/appfile.apk</url>
+    <releaseNotes>
+- Update Vesion 1.1
+- Bug fixes
+- UI Updates
+    </releaseNotes>
+  </update>
+</AppUpdater>
