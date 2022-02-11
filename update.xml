@@ -1,7 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>2.0</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
-    <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-release.apk</url>
- </update>
+    <latestVersion>1.2.2</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
+    <url>https://github.com/javiersantos/AppUpdater/releases</url>
+    <releaseNotes>
+- First evolution
+- Second evolution
+- Bug fixes
+    </releaseNotes>
+  </update>
 </AppUpdater>
