@@ -1,10 +1,13 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.0</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
-    <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-release.apk</url>
+    <latestVersion>2.0</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
+    <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
-- Test.
+- Fix lỗi 1 số chức năng
+- Fix lỗi nhập key nhưng không hiện.
+- Fix lỗi đã nhập key nhưng không sử dụng được mod
+- Và thêm 1 số bug mới.....😀
     </releaseNotes>
   </update>
 </AppUpdater>
