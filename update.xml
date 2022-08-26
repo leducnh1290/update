@@ -2,7 +2,7 @@
   <update>
     <latestVersion>2.0</latestVersion>
     <latestVersionCode>2</latestVersionCode>
-    <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update_sign.apk</url>
+    <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
 - Fix lỗi 1 số chức năng
 - Fix lỗi nhập key nhưng không hiện.
