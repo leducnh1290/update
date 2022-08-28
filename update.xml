@@ -4,11 +4,9 @@
     <latestVersionCode>2</latestVersionCode>
     <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
-- Fix lỗi 1 số chức năng
-- Fix lỗi nhập key nhưng không hiện.
-- Fix lỗi đã nhập key nhưng không sử dụng được mod
-- Và thêm 1 số bug mới.....😀
+- Đã fix lỗi không cài được mod.
 - Nếu bạn đã nhấn update.Nhưng máy báo không cài đặt được, thì vui lòng gỡ apk hiện tại và lên trang chủ, để tải lại bản fix lỗi nhé ♥️
+- Trang chủ <a href='https://cachuapro.tk/MOD'>Trang chủ</a>
     </releaseNotes>
   </update>
 </AppUpdater>
