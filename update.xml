@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>3.0</latestVersion>
-    <latestVersionCode>3</latestVersionCode>
+    <latestVersion>4.0</latestVersion>
+    <latestVersionCode>4</latestVersionCode>
     <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
 - Cải thiện độ ổn định ứng dụng - Tránh trường hợp mất key khi đã nhập !
