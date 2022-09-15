@@ -4,7 +4,8 @@
     <latestVersionCode>3</latestVersionCode>
     <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
-- Đã fix lỗi không cài được mod 😀
+- Cải thiện độ ổn định ứng dụng - Tránh trường hợp mất key khi đã nhập !
+- Nếu bạn reset máy đồng nghĩa với việc mất key !
 - Nếu bạn đã nhấn update.Nhưng máy báo không cài đặt được, thì vui lòng gỡ apk hiện tại và lên trang chủ, để tải lại bản fix lỗi nhé ♥️
 - Trang chủ https://cachuapro.tk/MOD
     </releaseNotes>
