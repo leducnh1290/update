@@ -1,9 +1,10 @@
 <AppUpdater>
   <update>
-    <latestVersion>5.0</latestVersion>
-    <latestVersionCode>5</latestVersionCode>
+    <latestVersion>6.0</latestVersion>
+    <latestVersionCode>6</latestVersionCode>
     <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
+🆘 Anh chị em chú ý .Mình đã tiến hành thay đổi code tất cả từ gun gun mod cho đến apk tích hợp ,phải gỡ hoàn toàn các bản gun gun mod hiện có trong máy và tải lại bản mới nhất trên trang chủ để sử dụng mod.Cảm ơn.
  --Bản Mod Chúc Mừng Xuân Quý Mão 2023 ♥️😻 --
 - Update khắc phục lỗi không thể cấp quyền đối với android 11 trở lên.
 - Fix lỗi xoá anti x8 không vào game được.
