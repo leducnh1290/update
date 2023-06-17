@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>6.0</latestVersion>
-    <latestVersionCode>6</latestVersionCode>
+    <latestVersion>10.0</latestVersion>
+    <latestVersionCode>10</latestVersionCode>
     <url>https://raw.githubusercontent.com/leducnh1290/update/main/app-update.apk</url>
     <releaseNotes>
-🔴 Update Vesion 9.0
+🔴 Update Vesion 10.0
 🔸Sửa đổi để có thể hoạt động với cả Gun Gun và Gun X
+🔸Fix 1 số lỗi
 🔴 Donate
 🔸 Momo : 0344590957(Lê Đức Anh)
 🔸 Ngân Hàng : TPBank - 0924024415(LE DUC ANH).
